@@ -1,5 +1,5 @@
 {
-    "name": "invis1ble/media-intelligence",
+    "name": "elsayed85/media-intelligence",
     "type": "library",
     "description": "A library for processing and analyzing media content, providing tools for audio, video, and text analysis.",
     "keywords": [
@@ -17,7 +17,7 @@
         "openai"
     ],
     "require": {
-        "php": ">=8.2",
+        "php": ">=8.0",
         "psr/log": "^3.0@dev",
         "psr/http-message": "^1.0@dev",
         "psr/http-client": "^1.0@dev",
